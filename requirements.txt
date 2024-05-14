@@ -1,0 +1,1 @@
+Django @ git+https://github.com/bmispelon/django.git@ticket-35420-contrib-syndication-feed-stylesheet
